@@ -1,3 +1,5 @@
+stile.css ==> .content ==> max-width inrasedto  3000px
+
 ESP-LINK: Wifi-Serial Bridge w/REST&MQTT
 ========================================
 
